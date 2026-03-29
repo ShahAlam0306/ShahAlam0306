@@ -1,4 +1,4 @@
-# 💫 About Me:![profile_pic](https://github.com/user-attachments/assets/c58933cf-6e2b-438c-ae11-f83f6a740f41)
+# 💫 About Me:
 
 Data Analyst skilled in SQL, Python, and Power BI.<br>I transform raw datasets into dashboards and insights<br>that drive real business decisions.<br><br>🔧 Skills : Python · SQL · Power BI · Excel · PostgreSQL<br>📊 Projects: Sales analytics, customer behavior, HR analytics<br>🎓 B.Sc IT @ Rizvi College (2027)<br>📍 Mumbai, India<br>🔍 Open to internships in Data Analytics & Business Intelligence
 
