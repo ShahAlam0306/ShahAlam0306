@@ -1,16 +1,8 @@
-# About Me
+## About Me
 
-🎓 B.Sc. IT Student | 📊 Aspiring Data Analyst
+Data Analyst skilled in SQL, Python, and Power BI.<br>I transform raw datasets into dashboards and insights<br>that drive real business decisions.<br><br>🔧 Skills : Python · SQL · Power BI · Excel · PostgreSQL<br>📊 Projects: Sales analytics, customer behavior, HR analytics<br>🎓 B.Sc IT @ Rizvi College (2027)<br>📍 Mumbai, India<br>🔍 Open to internships in Data Analytics & Business Intelligence
+End-to-end Data Analytics and Machine Learning projects using SQL, Python, Power BI, and Excel.<br>Data Analytics, Machine Learning, and real-world data-driven projects.<br>Advanced Machine Learning, model deployment, and building production-ready data applications.<br>Advanced Machine Learning, FastAPI, Pydantic, advanced SQL, and end-to-end ML deployment.<br>SQL, Python, Excel, Power BI, Data Analytics, EDA, and Machine Learning.<br>I enjoy turning raw data into dashboards, insights, and working ML applications.
 
-I build end-to-end data analytics and machine learning projects using SQL, Python, Excel, Power BI, and R.
-
-🔹 Data Cleaning & EDA
-🔹 SQL Analytics & Data Transformation
-🔹 Interactive Power BI Dashboards
-🔹 Machine Learning & Model Evaluation
-🔹 Data-driven Business Insights
-
-🚀 Currently building projects that turn raw data into meaningful insights and practical applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shahalam-rayeen-104435319) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayeenshakib7860@gmail.com) 
