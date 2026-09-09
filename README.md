@@ -1,4 +1,4 @@
-💫 About Me
+# About Me
 
 🎓 B.Sc. IT Student | 📊 Aspiring Data Analyst
 
