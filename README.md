@@ -1,6 +1,5 @@
 ## About Me
 
-Data Analyst skilled in SQL, Python, and Power BI.<br>I transform raw datasets into dashboards and insights<br>that drive real business decisions.<br><br>🔧 Skills : Python · SQL · Power BI · Excel · PostgreSQL<br>📊 Projects: Sales analytics, customer behavior, HR analytics<br>🎓 B.Sc IT @ Rizvi College (2027)<br>📍 Mumbai, India<br>🔍 Open to internships in Data Analytics & Business Intelligence
 End-to-end Data Analytics and Machine Learning projects using SQL, Python, Power BI, and Excel.<br>Data Analytics, Machine Learning, and real-world data-driven projects.<br>Advanced Machine Learning, model deployment, and building production-ready data applications.<br>Advanced Machine Learning, FastAPI, Pydantic, advanced SQL, and end-to-end ML deployment.<br>SQL, Python, Excel, Power BI, Data Analytics, EDA, and Machine Learning.<br>I enjoy turning raw data into dashboards, insights, and working ML applications.
 
 
